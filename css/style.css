@@ -154,7 +154,6 @@ img {
     text-align: center;
     max-width: 1400px;
     margin: 0 auto;
-    background-color: #2E2F42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("../images/hero-image-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
