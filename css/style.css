@@ -219,7 +219,7 @@ img {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    margin: var(--gap-bottom);
+    margin-bottom: var(--gap-bottom);
     letter-spacing: 0.02em;
 }
 
